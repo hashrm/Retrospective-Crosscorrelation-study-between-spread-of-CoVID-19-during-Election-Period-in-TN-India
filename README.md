@@ -1,2 +1,3 @@
 # Learning-Python-3
-General Learning Repository For Understanding Python 3, Created by @hashrm (Hariesh Ramanathan M)
+I'm Learning Python - 3 now.
+I'm maintaining this repository to learn new content everyday and share my progress of learning.
